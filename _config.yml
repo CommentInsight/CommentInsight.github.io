@@ -7,3 +7,4 @@ show_downloads: ["true"]
 github:
   zip_url: https://github.com/nnfish/CommentInsight/releases/download/Beta_5/CmmentInsight.0.5.zip
   tar_url: https://gitee.com/nnfish/CommentInsight/releases/Beta_5
+  repository_url: https://github.com/nnfish/CommentInsight
