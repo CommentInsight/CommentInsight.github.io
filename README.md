@@ -11,7 +11,7 @@ Sourcecode comments statistics clean tool, support language: C,CPP,C#,Python,Php
 ## FAQ 其它
 - 运行环境 Windows 7,8,10+, .Net Freamework 4.5.2
 
-- [为什么写了这个小程序  ]( FAQ.md)
+- [为什么写了这个小程序  ]( https://github.com/CommentInsight/CommentInsight.github.io/blob/master/README.md)
 
 
 ## Screenshot 截图
