@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+title: [Comment Insight]
+description: [Easy to Statistics&Count&Clean the comments in your SourceCode. 源代码注释统计&清理工具]
+
+show_downloads: ["false"]
+
+github:
+  zip_url: https://github.com/nnfish/CommentInsight/releases/download/Beta_5/CmmentInsight.0.5.zip
+  tar_url: https://gitee.com/nnfish/CommentInsight/releases/Beta_5
