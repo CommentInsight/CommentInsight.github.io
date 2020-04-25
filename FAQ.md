@@ -39,7 +39,8 @@ void test()
 
 找了一下资料，看到用状态机来实现对注释代码的查找匹配，可以完美解决上面的问题。
 
->  [怎样删除C/C++代码中的所有注释？浅谈状态机的编程思想]: https://www.cnblogs.com/zhanghaiba/p/3569928.html
+| [怎样删除C/C++代码中的所有注释？浅谈状态机的编程思想]: https://www.cnblogs.com/zhanghaiba/p/3569928.html
+
 
 ![image](pic/cpp.comment.jpg)	
 
