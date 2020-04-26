@@ -13,6 +13,8 @@ Sourcecode comments statistics clean tool, support language: C,CPP,C#,Python,Php
 
 - [为什么写了这个小程序](./FAQ.html)
 
+## Youtube Demo
+[![Comment Insight](https://img.youtube.com/vi/LJEUH29_OtM/0.jpg)](https://www.youtube.com/watch?v=LJEUH29_OtM "Comment Insight  - Click to Watch!")
 
 ## Screenshot 截图
 
