@@ -13,6 +13,8 @@ Sourcecode comments statistics clean tool, support language: C,CPP,C#,Python,Php
 
 - [为什么写这个小程序  ]( https://github.com/CommentInsight/CommentInsight.github.io/blob/master/FAQ.md)
 
+[为什么写了这个小程序](./FAQ.html)
+
 
 ## Screenshot 截图
 
