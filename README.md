@@ -18,8 +18,8 @@ Sourcecode comments statistics clean tool, support language: C,CPP,C#,Python,Php
 
 ## Screenshot 截图
 
-![image](pic/a1.png)	
-![image](pic/a2.png)	
+![image](pic/a1a.png)	
+![image](pic/a2a.png)	
 ![image](pic/a3.png)	
 ![image](pic/a4.png)	
 ![image](pic/a5.png)	
